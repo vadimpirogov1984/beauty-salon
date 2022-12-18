@@ -662,7 +662,7 @@ body._lock {
 }
 
 .content-specialists__item {
-  padding: 0 0 60px;
+  padding: 0 0 60px 20px;
 }
 
 .content-specialists__img {
@@ -675,7 +675,7 @@ body._lock {
 }
 
 .content-specialists__img img {
-  position: absolute;
+  position: relative;
   top: 20px;
   left: -20px;
   width: 100%;
