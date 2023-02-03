@@ -708,6 +708,12 @@ body._lock {
 }
 
 @media (max-width: 991.98px) {
+   .header {
+    position: fixed;
+    width: 100%;
+    background: black;
+    z-index: 100;
+  }
   .header__body {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -880,6 +886,7 @@ body._lock {
   ._container {
     padding: 0 10px;
   }
+
   .main-screen__content {
     padding-top: 50%;
   }
