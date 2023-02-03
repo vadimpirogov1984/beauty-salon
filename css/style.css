@@ -887,6 +887,11 @@ body._lock {
     padding-bottom: 45%;
     font-size: 24px;
   }
+  
+  .main-screen__title .title-middle {
+    font-size: 36px;
+  }
+  
   .main-screen__subtitle  {
     padding-bottom: 0;
   }
